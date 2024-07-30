@@ -1,0 +1,17 @@
+# biblioteca_pandas
+
+#O dataset sobre imóveis que temos em mãos é composto por informações sobre os imóveis da região do Porto(Protugal) e da região de Barcelona(Espanha). 
+
+Com esses dados imobiliários em mãos, podemos fazer uma análise para o cliente sobre quais os imóveis nessas duas regiões atendem os requisitos estipulados por ele.
+
+Foram analisados as seguintes métricas:
+
+1- Faixa de preço de aluguel.
+2- Existência ou não de vagas de garagem.
+3- Permissão ou não para ter animais de estimação.
+4- Quantidade de banheiros no imóvel.
+5- Área total dos imóveis.
+6- Andar dos imóveis.
+
+Com esses dados, pôde ser feita uma análise no quesito de consultoria para que o cliente pudesse avaliar as melhores opções dentro dos padrões e preferências dele para as duas regiões.
+
